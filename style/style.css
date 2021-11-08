@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: normal;
+}
+p {
+  background-color: rgba(212, 79, 79, 0.1);
+  font-size: 33px;
+  font-weight: bold;
+}
+.container {
+  background-color: aqua;
+  max-width: 1105px;
+  margin: 0 auto;
+}
+
+.button {
+  padding: 20px;
+  margin-right: 20px;
+  border: 1px solid #000;
+  border-radius: 20px;
+}
